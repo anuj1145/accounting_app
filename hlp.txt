@@ -1,1 +1,2 @@
-1. add database by importing it into database named my_account
+1. add database file by importing it into database named my_account from db_file folder
+2. download all project file in accounting_system foler in ht_docs
